@@ -48,9 +48,9 @@ def model_predict(img_path, model):
     # classes = model.predict(x)
     New_pred = np.argmax(preds, axis=1)
     if New_pred == 1:
-        preds =  "Prediction: Normal"
+        preds =  "Normal"
     else:
-        preds =  "Prediction: Corona"
+        preds =  "Corona Positive "
     
     return preds
 
