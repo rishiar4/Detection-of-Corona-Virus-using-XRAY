@@ -43,7 +43,7 @@
 > I have used Heroku cloud services to deploy the same and the link for the same can be found here:
 > https://predictingcarprice.herokuapp.com/
 -->
-> Video Explaination of the working project can be found <a href="https://www.linkedin.com/posts/rishabh-sharma7_deeplearning-corona-medicalimaging-activity-6697493354650976257-dJEv" >here</a>. 
+> **Video Explaination** of the working project can be found <a href="https://www.linkedin.com/posts/rishabh-sharma7_deeplearning-corona-medicalimaging-activity-6697493354650976257-dJEv" >here</a>. 
   
 
 > Do star the repository, also suggestions and changes are most welcome.
